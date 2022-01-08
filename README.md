@@ -1,4 +1,4 @@
-<table style="text-align:center;">
+<table style="text-align:center;margin-left:200px;">
   <tr>
     <td>Total visitors</td>
     <td><img src="https://profile-counter.glitch.me/kazuki-komori/count.svg" alt="" /></td>
