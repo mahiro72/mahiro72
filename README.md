@@ -1,4 +1,4 @@
-<table style="text-align:center;margin-left:200px;">
+<table align="center">
   <tr>
     <td>Total visitors</td>
     <td><img src="https://profile-counter.glitch.me/kazuki-komori/count.svg" alt="" /></td>
@@ -8,7 +8,6 @@
 <h1 align="center">Hi 👋, I'm mahiro72</h1>
 <h3 align="center">I'm Web Developer in Japan :jp:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiro72&label=Profile%20views&color=0e75b6&style=flat-square" alt="mahiro72" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sino0042900" target="blank"><img src="https://img.shields.io/twitter/follow/sino0042900?logo=twitter&style=for-the-badge" alt="sino0042900" /></a> </p>
 
