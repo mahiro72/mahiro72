@@ -1,9 +1,10 @@
-<h1 align="center">Welcome to my page 🎉🎉</h1>
+<h1> Welcome to my page 🎉🎉</h1>
+<!-- align="center" -->
 
 <br>
-<p align="center">こんにちは、mahiroと申します</p>
-<p align="center">お越しいただきありがとうございます🙇</p>
-<table align="center">
+<p>こんにちは、mahiroと申します</p>
+<p>お越しいただきありがとうございます🙇</p>
+<table>
   <tr>
     <td>Total visitors</td>
     <td><img src="https://profile-counter.glitch.me/mahiro72/count.svg" alt="" /></td>
