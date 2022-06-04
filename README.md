@@ -25,7 +25,7 @@
 
 <br>
 
-twitter🐤はこちらからフォローできます！
+twitter🐤
 
 <p align="left"> <a href="https://twitter.com/sino0042900" target="blank"><img src="https://img.shields.io/twitter/follow/sino0042900?logo=twitter&style=for-the-badge" alt="sino0042900" /></a> </p>
 
