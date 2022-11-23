@@ -2,8 +2,7 @@
 <!-- align="center" -->
 
 <br>
-<p>こんにちは、mahiroと申します</p>
-<p>お越しいただきありがとうございます🙇</p>
+<p>Hi 👋, I'm mahiro yoshie.</p>
 <table>
   <tr>
     <td>Total visitors</td>
@@ -11,17 +10,9 @@
   </tr>
 </table>
 
-<br>
-
-<!-- <h1 align="center">Hi 👋, I'm mahiro72</h1> -->
+my portfolio -> https://mahiro72-resume.vercel.app/
 
 <br>
-
-<h2> My Portfolio </h2> 
-
-私の [ポートフォリオ](https://mahiro72-resume.vercel.app/) です
-
-<br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiro72&show_icons=true&locale=en" alt="mahiro72" /></p>
 
