@@ -1,7 +1,8 @@
 ### Welcome to my page
 <!-- align="center" -->
 
-Hi, I'm mahiro.
+Hi, I'm mahiro. Love Go
+
 
 https://mahiro72-resume.vercel.app/
 
